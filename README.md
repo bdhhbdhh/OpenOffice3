@@ -1,4 +1,4 @@
-# OpenOffice4
+# OpenOffice3
 OpenOffice 3 server mode
 
 ## Run the container
